@@ -8,7 +8,7 @@
 
 ---
 
-- ⚡ Skills: Dart • Flutter • Swift • Node • React  
+- ⚡ Skills: Dart • Flutter • Swift • Javascript • Node • React  
 - 📫 How to reach me: abiolaoluwajuwon@gmail.com
 
 
